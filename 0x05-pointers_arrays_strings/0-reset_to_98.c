@@ -3,6 +3,7 @@
  *
  * @*n - pointer to the variable to be reset
  *
+ * Return - void
  */
 void reset_to_98(int *n)
 {
